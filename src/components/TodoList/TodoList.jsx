@@ -1,9 +1,10 @@
-import Text from '../Text/Text';
+import Todo from '../Todo/Todo';
+
 
 const TodoList = () => {
   return (
     <>
-      <Text textAlign="center">We did not find any todo😯</Text>
+      <Todo />
     </>
   );
 };
